@@ -10,18 +10,21 @@
 
 <body>
     <form action="" method="post">
-        <div class="">
+        <div class="fields">
             <label for="title">Title</label>
-            <input type="text" name="title" id="title" placeholder="e.g. My Favourite Comedy Movies">
+            <input type="text" name="title" id="title">
         </div>
-        <div class="">
+        <div class="fields">
             <label for="description">Description</label>
-            <textarea name="description" id="description" placeholder="1. Phir Hera Pheri
-2. Houseful 3 
-3. Its Entertainment"></textarea>
+            <textarea name="description" id="description"></textarea>
         </div>
-        <button type="submit">Add Note</button>
+        <div>
+            <button type="submit">Add Note</button>
+        </div>
     </form>
+    <div class="table">
+        
+    </div>
 </body>
 
 </html>
