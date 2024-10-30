@@ -1,2 +1,4 @@
 # alpha-notes
-A Simple And Useful Note Making Web Application For Alpha Generation. Implemented Using PHP.
+A Simple And Useful Note Making Web Application.
+
+Implemented Using PHP.
